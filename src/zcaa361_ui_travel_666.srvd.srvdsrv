@@ -1,0 +1,5 @@
+@EndUserText.label: 'SD: Travels'
+define service ZCAA361_UI_TRAVEL_666 {
+  expose ZCAA361_C_Travel_666 as Travel;
+  expose ZCAA361_C_Booking_666 as Booking;
+}
